@@ -1,0 +1,90 @@
+{
+ "sigrun_attack": {
+  "frames": 22,
+  "w": 270,
+  "h": 369,
+  "bodyX": 0.398,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "sigrun_idle": {
+  "frames": 25,
+  "w": 105,
+  "h": 301,
+  "bodyX": 0.524,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "sigrun_walk": {
+  "frames": 25,
+  "w": 198,
+  "h": 302,
+  "bodyX": 0.502,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "halvar_attack": {
+  "frames": 21,
+  "w": 346,
+  "h": 354,
+  "bodyX": 0.231,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "halvar_idle": {
+  "frames": 25,
+  "w": 111,
+  "h": 305,
+  "bodyX": 0.521,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "halvar_walk": {
+  "frames": 25,
+  "w": 202,
+  "h": 309,
+  "bodyX": 0.487,
+  "feetY": 0.996,
+  "bodyH": 300
+ },
+ "ottar_attack": {
+  "frames": 25,
+  "w": 309,
+  "h": 306,
+  "bodyX": 0.398,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "ottar_idle": {
+  "frames": 25,
+  "w": 101,
+  "h": 301,
+  "bodyX": 0.483,
+  "feetY": 0.998,
+  "bodyH": 300
+ },
+ "ottar_walk": {
+  "frames": 25,
+  "w": 182,
+  "h": 301,
+  "bodyX": 0.458,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "brokk_idle": {
+  "frames": 25,
+  "w": 301,
+  "h": 200,
+  "bodyX": 0.514,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "brokk_walk": {
+  "frames": 25,
+  "w": 304,
+  "h": 196,
+  "bodyX": 0.501,
+  "feetY": 1.0,
+  "bodyH": 300
+ }
+}
