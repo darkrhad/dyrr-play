@@ -5,7 +5,8 @@
   "h": 369,
   "bodyX": 0.398,
   "feetY": 1.0,
-  "bodyH": 300
+  "bodyH": 300,
+  "hit": 6
  },
  "sigrun_idle": {
   "frames": 25,
@@ -29,7 +30,8 @@
   "h": 354,
   "bodyX": 0.231,
   "feetY": 1.0,
-  "bodyH": 300
+  "bodyH": 300,
+  "hit": 9
  },
  "halvar_idle": {
   "frames": 25,
@@ -53,7 +55,8 @@
   "h": 306,
   "bodyX": 0.398,
   "feetY": 1.0,
-  "bodyH": 300
+  "bodyH": 300,
+  "hit": 10
  },
  "ottar_idle": {
   "frames": 25,
@@ -85,6 +88,81 @@
   "h": 196,
   "bodyX": 0.501,
   "feetY": 1.0,
+  "bodyH": 300
+ },
+ "draugr_attack": {
+  "frames": 22,
+  "w": 397,
+  "h": 433,
+  "bodyX": 0.247,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 11
+ },
+ "draugr_idle": {
+  "frames": 25,
+  "w": 134,
+  "h": 304,
+  "bodyX": 0.472,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "draugr_walk": {
+  "frames": 25,
+  "w": 281,
+  "h": 309,
+  "bodyX": 0.403,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "eirik_attack": {
+  "frames": 22,
+  "w": 391,
+  "h": 380,
+  "bodyX": 0.254,
+  "feetY": 0.985,
+  "bodyH": 300,
+  "hit": 9
+ },
+ "eirik_idle": {
+  "frames": 25,
+  "w": 128,
+  "h": 304,
+  "bodyX": 0.526,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "eirik_walk": {
+  "frames": 25,
+  "w": 185,
+  "h": 309,
+  "bodyX": 0.483,
+  "feetY": 0.996,
+  "bodyH": 300
+ },
+ "wolf_attack": {
+  "frames": 25,
+  "w": 370,
+  "h": 165,
+  "bodyX": 0.487,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 9
+ },
+ "wolf_idle": {
+  "frames": 25,
+  "w": 302,
+  "h": 208,
+  "bodyX": 0.401,
+  "feetY": 1.0,
+  "bodyH": 300
+ },
+ "wolf_walk": {
+  "frames": 25,
+  "w": 312,
+  "h": 155,
+  "bodyX": 0.494,
+  "feetY": 0.996,
   "bodyH": 300
  }
 }
