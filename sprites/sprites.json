@@ -164,5 +164,14 @@
   "bodyX": 0.494,
   "feetY": 0.996,
   "bodyH": 300
+ },
+ "halvar_axe_attack": {
+  "frames": 22,
+  "w": 293,
+  "h": 365,
+  "bodyX": 0.401,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 13
  }
 }
