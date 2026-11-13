@@ -173,5 +173,68 @@
   "feetY": 1.0,
   "bodyH": 300,
   "hit": 13
+ },
+ "halvar_axe_cleave": {
+  "frames": 25,
+  "w": 556,
+  "h": 477,
+  "bodyX": 0.417,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 7
+ },
+ "halvar_sword_cleave": {
+  "frames": 25,
+  "w": 569,
+  "h": 429,
+  "bodyX": 0.45,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 9
+ },
+ "sigrun_bow_aimed": {
+  "frames": 25,
+  "w": 382,
+  "h": 306,
+  "bodyX": 0.274,
+  "feetY": 0.991,
+  "bodyH": 300,
+  "hit": 10
+ },
+ "sigrun_bow_pinning": {
+  "frames": 25,
+  "w": 212,
+  "h": 305,
+  "bodyX": 0.429,
+  "feetY": 0.996,
+  "bodyH": 300,
+  "hit": 16
+ },
+ "halvar_shieldwall": {
+  "frames": 25,
+  "w": 277,
+  "h": 301,
+  "bodyX": 0.385,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 12
+ },
+ "ottar_hail": {
+  "frames": 25,
+  "w": 144,
+  "h": 352,
+  "bodyX": 0.3,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 13
+ },
+ "ottar_mend": {
+  "frames": 25,
+  "w": 130,
+  "h": 301,
+  "bodyX": 0.365,
+  "feetY": 1.0,
+  "bodyH": 300,
+  "hit": 10
  }
 }
